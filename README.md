@@ -78,3 +78,4 @@ npm run polygon     # для Polygon
 27. Xterio
 28. zkSync
 29. Zora
+30. Mantle
